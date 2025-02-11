@@ -1,0 +1,223 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Dell Inspiron 15",
+      "product_image": "https://techlink.com.bd/wp-content/uploads/2024/05/Dell-Inspiron-15-3525-AMD-Ryzen-7-5825U-8GB-RAM-512GB-SSD-15.6-Inch-FHD-Laptop.jpg",
+      "category": "laptops",
+      "price": 599.99,
+      "description": "15-inch laptop with Intel i5 processor and 8GB RAM.",
+      "Specification": [ "Intel i5", "8GB RAM", "512GB SSD"],
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRbCQwqua53_aXw9eJ9nqHrRPpZ_ZLoN7xw&s",
+      "category": "iphones",
+      "price": 1099.99,
+      "description": "Latest iPhone with a 48MP camera and A16 Bionic chip.",
+      "Specification": ["A16 Bionic", "128GB storage", "5G"],
+      "availability": "Out of stock",
+      "rating": 4.8
+    },
+    {
+      "product_id": 3,
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Lavender-4600.jpg",
+      "category": "phones",
+      "price": 799.99,
+      "description": "Samsung's flagship phone with a 50MP camera and Snapdragon 8 Gen 2.",
+      "Specification": ["Snapdragon 8 Gen 2", "8GB RAM", "256GB storage"],
+      "availability": "In stock",
+      "rating": 4.7
+    },
+    {
+      "product_id": 4,
+      "product_title": "MacBook Air M2",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-Midnight-8137.jpg",
+      "category": "macbook",
+      "price": 999.99,
+      "description": "13-inch MacBook with Apple M2 chip and 8GB RAM.",
+      "Specification": ["Apple M2", "8GB RAM", "256GB SSD"],
+      "availability": "In stock",
+      "rating": 4.6
+    },
+    {
+      "product_id": 5,
+      "product_title": "Logitech Wireless Mouse",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL9au4uE_dn9h4bLkKerSpXwQuUEO2p3Icw&s",
+      "category": "accessories",
+      "price": 59.99,
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "Specification":  ["Wireless", "Ergonomic design", "2.4GHz"],
+      "availability": "In stock",
+      "rating": 4.3
+    },
+    {
+      "product_id": 6,
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Black-8338.jpg",
+      "category": "watches",
+      "price": 399.99,
+      "description": "Smartwatch with ECG, GPS, and 18-hour battery life.",
+      "Specification":  ["ECG", "GPS", "18-hour battery"],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": 7,
+      "product_title": "HP Pavilion 14",
+      "product_image": "https://computermania.com.bd/wp-content/uploads/2025/01/HP-Pavilion-Laptop-14-Price.png",
+      "category": "laptops",
+      "price": 649.99,
+      "description": "14-inch laptop with Intel Core i7 and 16GB RAM.",
+      "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": "In stock",
+      "rating": 4.2
+    },
+    {
+      "product_id": 8,
+      "product_title": "OnePlus 11",
+      "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/OnePlus/OnePlus%2011/Oneplus11-800x800.png",
+      "category": "phones",
+      "price": 799.99,
+      "description": "OnePlus flagship with Snapdragon 8 Gen 2 and 120Hz display.",
+      "Specification": ["Snapdragon 8 Gen 2", "12GB RAM", "256GB storage"],
+      "availability": "Out of stock",
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "product_title": "Oculus Quest 2",
+      "product_image": "https://i5.walmartimages.com/seo/Oculus-Quest-2-Advanced-All-In-One-Virtual-Reality-Headset-64GB_9883be63-9f33-441c-ae55-eee75573161c.765af5b81ef52496ef54b8b1565c4dc7.jpeg",
+      "category": "accessories",
+      "price": 299.99,
+      "description": "Standalone VR headset with 64GB storage and Oculus games.",
+      "Specification":  ["64GB Storage", "VR", "Standalone"],
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+      "product_id": 10,
+      "product_title": "Fossil Hybrid HR Watch",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS74_0M_YWfsK2dFcBhaqh5bXhy-BEHIlhng&s",
+      "category": "watches",
+      "price": 169.99,
+      "description": "Hybrid smartwatch with fitness tracking and heart rate monitor.",
+      "Specification": ["Heart rate monitor", "Fitness tracking"],
+      "availability": "In stock",
+      "rating": 4.4
+    },
+    {
+      "product_id": 11,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://p3-ofp.static.pub//fes/cms/2024/07/05/05dhzg0lrtq4i0d3wxqyjjakwmbmzr331426.png",
+      "category": "laptops",
+      "price": 1299.99,
+      "description": "Business laptop with Intel i7 processor and 16GB RAM.",
+      "Specification":  ["Intel i7", "16GB RAM", "512GB SSD"],
+      "availability": "In stock",
+      "rating": 4.8
+    },
+    {
+      "product_id": 12,
+      "product_title": "iPhone 13 Mini",
+      "product_image": "https://www.mobiledokan.co/wp-content/uploads/2021/09/Apple-iPhone-13-mini-Pink-500x500.jpg",
+      "category": "iphones",
+      "price": 699.99,
+      "description": "Compact and powerful iPhone with A15 Bionic chip.",
+      "Specification": ["A15 Bionic", "128GB storage"],
+      "availability": "In stock",
+      "rating": 4.7
+    },
+    {
+      "product_id": 13,
+      "product_title": "MacBook Pro 16-inch",
+      "product_image": "https://www.custommacbd.com/cdn/shop/products/sg2.jpg?v=1613634631",
+      "category": "macbook",
+      "price": 2399.99,
+      "description": "16-inch MacBook Pro with M1 Max chip and 32GB RAM.",
+      "Specification": ["M1 Max", "32GB RAM", "1TB SSD"],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": 14,
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://www.custommacbd.com/cdn/shop/products/GalaxyWatch5-saphire-custom-mac-bd.jpg?v=1661494309",
+      "category": "watches",
+      "price": 279.99,
+      "description": "Smartwatch with health tracking, ECG, and fitness features.",
+      "Specification":  ["ECG", "Fitness tracking", "GPS"],
+      "availability": "In stock",
+      "rating": 4.6
+    },
+    {
+      "product_id": 15,
+      "product_title": "Razer Blade 15",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIpeBfc_pSiexpc_ccfnUmvkoB3h0Sk9NBw&s",
+      "category": "laptops",
+      "price": 1799.99,
+      "description": "Gaming laptop with Intel i7 processor and NVIDIA RTX 3070.",
+      "Specification": ["Intel i7", "16GB RAM", "NVIDIA RTX 3070"],
+      "availability": "In stock",
+      "rating": 4.7
+    },
+    {
+      "product_id": 16,
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/5318-55349.jpg",
+      "category": "accessories",
+      "price": 349.99,
+      "description": "Noise-canceling headphones with 30 hours of battery life.",
+      "Specification": ["Noise-canceling", "30 hours battery"],
+      "availability": "In stock",
+      "rating": 4.8
+    },
+    {
+      "product_id": 17,
+      "product_title": "Garmin Forerunner 245",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0q8j9tV_AMJvMALoSZcat5XNOU1RwMI3dA&s",
+      "category": "watches",
+      "price": 249.99,
+      "description": "GPS running watch with heart rate monitor and advanced metrics.",
+      "Specification": ["GPS", "Heart rate monitor", "Advanced metrics"],
+      "availability": "In stock",
+      "rating": 4.4
+    },
+    {
+      "product_id": 18,
+      "product_title": "Acer Swift 3",
+      "product_image": "https://computermania.com.bd/wp-content/uploads/2025/01/Acer-Swift-3-SF314-Price-1.jpg",
+      "category": "laptops",
+      "price": 749.99,
+      "description": "Thin and light laptop with Intel Core i5 and 8GB RAM.",
+      "Specification":  ["Intel Core i5", "8GB RAM", "512GB SSD"],
+      "availability": "In stock",
+      "rating": 4.3
+    },
+    {
+      "product_id": 19,
+      "product_title": "Apple iPad Air 5th Gen",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaX8i-KpUlz6Wm4XPf2zMUip6p7cUixzE9Og&s",
+      "category": "macbook",
+      "price": 599.99,
+      "description": "Tablet with A14 Bionic chip and 10.9-inch Liquid Retina display.",
+      "Specification": ["A14 Bionic", "64GB storage", "10.9-inch display"],
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+      "product_id": 20,
+      "product_title": "Xiaomi Redmi Note 12",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz7BFV2FU1GA_QuCJYXJQULm8mBTRR4aSelw&s",
+      "category": "phones",
+      "price": 249.99,
+      "description": "Budget smartphone with 48MP camera and Snapdragon 680.",
+      "Specification": ["Snapdragon 680", "6GB RAM", "128GB storage"],
+      "availability": "In stock",
+      "rating": 4.4
+    }
+  ]
+  
