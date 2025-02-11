@@ -6,7 +6,7 @@ Your go-to destination for the latest and greatest gadgets!
 [https://posh_gadget.surge.sh/](https://posh_gadget.surge.sh/)
 
 ## 📜 Requirement Document
-[Requirement Document Link](#) <!-- Replace with actual link -->
+[https://docs.google.com/document/d/1d5Ov-PIFlkEfhZG9cL67C4G1QceL6niCbdgMN5Klj_g/edit?usp=sharing](https://docs.google.com/document/d/1d5Ov-PIFlkEfhZG9cL67C4G1QceL6niCbdgMN5Klj_g/edit?usp=sharing) <!-- Replace with actual link -->
 
 ## 📌 Overview
 GadgetHeaven is a modern e-commerce platform designed to provide a seamless shopping experience for gadget lovers. Built with **React**, this project implements structured navigation, product filtering, a shopping cart, and a wishlist system.
