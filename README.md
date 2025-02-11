@@ -3,7 +3,7 @@
 Your go-to destination for the latest and greatest gadgets!
 
 ## 🌐 Live Website
-[Live Website](#https://posh_gadget.surge.sh/)
+[https://posh_gadget.surge.sh/](#https://posh_gadget.surge.sh/)
 
 ## 📜 Requirement Document
 [Requirement Document Link](#) <!-- Replace with actual link -->
